@@ -99,7 +99,7 @@ dasda
 
 ---
 
-## Insert exercise title here
+## MPC
 
 ```yaml
 type: MultipleChoiceExercise

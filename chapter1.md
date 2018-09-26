@@ -109,9 +109,6 @@ xp: 50
 
 
 
-`@possible_answers`
-dasdasda
-
 `@hint`
 
 
@@ -124,3 +121,6 @@ dasdasda
 ```{python}
 
 ```
+
+`@possible_answers`
+dasdasda
